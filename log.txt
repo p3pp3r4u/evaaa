@@ -1,0 +1,12 @@
+UserID: 7467969035 | Time: 2024-08-28 10:48:20.951698 | Command: /bgmi | Target: 20.235.151.158 | Port: 22893 | Time: 600
+Username: @p3pper4u
+Target: 20.235.151.158
+Port: 22893
+Time: 600
+
+UserID: 7467969035 | Time: 2024-08-28 10:48:42.173922 | Command: /bgmi | Target: 20.235.151.158 | Port: 22893 | Time: 300
+Username: @p3pper4u
+Target: 20.235.151.158
+Port: 22893
+Time: 300
+
